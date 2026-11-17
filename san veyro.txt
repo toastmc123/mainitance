@@ -1,0 +1,579 @@
+# SAN VEYRO – THE STREETS
+## COMPLETE AAA OPEN WORLD GAME DEVELOPMENT
+
+Create a complete, playable, highly realistic 3D open-world action-adventure game.
+
+The game should have the ambition, immersion, freedom and visual quality of a modern AAA open-world game.
+
+IMPORTANT:
+I do NOT want a Minecraft-style world, Roblox-style graphics, pixel characters, blocky cars, primitive buildings or a tiny empty test map.
+
+I want realistic human characters, realistic vehicles, detailed buildings, cinematic cutscenes, a living city, NPCs, missions, weapons, police, traffic and a complete story.
+
+Create an original game with original characters, locations, names, models and assets.
+
+==================================================
+1. GAME WORLD – SAN VEYRO
+==================================================
+
+Create a massive fictional American coastal city called SAN VEYRO.
+
+The city must feel alive and realistic.
+
+Include:
+
+- Downtown with massive skyscrapers.
+- Luxury neighborhoods.
+- Poor residential neighborhoods.
+- Modern apartments.
+- Large mansions.
+- Shopping malls.
+- Restaurants.
+- Gas stations.
+- Car dealerships.
+- Police stations.
+- Hospitals.
+- Airports.
+- Beaches.
+- Harbors.
+- Industrial areas.
+- Mountain roads.
+- Forests.
+- Highways.
+- Underground parking garages.
+- Nightclubs.
+- Hotels.
+- Small villages outside the city.
+
+The city should be explorable without invisible walls everywhere.
+
+Add realistic interiors to important buildings.
+
+Create different neighborhoods with unique architecture.
+
+==================================================
+2. GRAPHICS – ULTRA REALISTIC
+==================================================
+
+GRAPHICS ARE THE HIGHEST PRIORITY.
+
+Use Unreal Engine 5 or another suitable professional 3D engine.
+
+Visual requirements:
+
+- Photorealistic 3D graphics.
+- High-resolution textures.
+- PBR materials.
+- Realistic skin materials.
+- Realistic human faces.
+- Detailed clothing.
+- Realistic hair.
+- Realistic buildings.
+- Detailed roads.
+- Realistic glass.
+- Realistic water.
+- Dynamic shadows.
+- Global illumination.
+- Reflections.
+- Realistic vegetation.
+- Volumetric fog.
+- Cinematic lighting.
+- Realistic sunsets.
+- Dynamic weather.
+- Rain reflections.
+- Night lighting.
+- High-quality environmental details.
+
+Use Nanite, Lumen and other Unreal Engine features where appropriate.
+
+Do not use primitive placeholder objects as final assets.
+
+Create optimized graphics settings for different PCs.
+
+==================================================
+3. REALISTIC HUMAN CHARACTERS
+==================================================
+
+Create fully modeled human characters.
+
+Characters must have:
+
+- Realistic human anatomy.
+- Natural body proportions.
+- Detailed faces.
+- Realistic skin textures.
+- Individual hairstyles.
+- Detailed eyes.
+- Realistic hands and fingers.
+- High-quality clothing.
+- Facial expressions.
+- Lip synchronization.
+- Motion-captured-style animations.
+
+Use MetaHuman or comparable technology where suitable.
+
+Characters must not look like cartoon figures or pixel characters.
+
+==================================================
+4. FIRST PERSON AND THIRD PERSON
+==================================================
+
+Implement two fully functional camera modes.
+
+FIRST PERSON:
+- View through the character's eyes.
+- Visible hands.
+- First-person vehicle interiors.
+- Realistic camera movement.
+- Smooth camera transitions.
+- Proper interaction animations.
+
+THIRD PERSON:
+- Full character visible.
+- Smooth follow camera.
+- Camera rotation with mouse.
+- Character animations.
+- Camera collision handling.
+- Different camera distances.
+
+Allow switching between first person and third person at any time using a configurable key.
+
+Both camera modes must work while walking, running and driving.
+
+==================================================
+5. PLAYER CHARACTER
+==================================================
+
+Main protagonist: ALEX CARTER.
+
+Age: 24.
+
+Appearance:
+- Realistic human face.
+- Dark brown hair.
+- Modern streetwear.
+- Black jacket.
+- Jeans.
+- Realistic shoes.
+
+The player must be able to:
+
+- Walk.
+- Run.
+- Sprint.
+- Jump.
+- Crouch.
+- Interact with NPCs.
+- Enter buildings.
+- Enter vehicles.
+- Exit vehicles.
+- Change clothes.
+- Change hairstyles.
+- Customize appearance.
+- Purchase properties.
+- Save progress.
+
+==================================================
+6. VEHICLES
+==================================================
+
+Create many realistic vehicles:
+
+- Sports cars.
+- Supercars.
+- SUVs.
+- Sedans.
+- Pickup trucks.
+- Motorcycles.
+- Police vehicles.
+- Taxis.
+- Buses.
+- Trucks.
+- Luxury cars.
+
+Each vehicle needs:
+
+- Detailed exterior.
+- Detailed interior.
+- Realistic tires.
+- Working lights.
+- Steering animations.
+- Realistic suspension.
+- Engine sounds.
+- Different driving physics.
+- Damage visuals.
+- Functional doors.
+- First-person driving camera.
+- Third-person driving camera.
+
+Allow players to purchase, customize, store and retrieve vehicles.
+
+Create a functioning traffic system.
+
+==================================================
+7. WEAPONS AND EQUIPMENT
+==================================================
+
+Create a fictional in-game weapon inventory.
+
+Include different weapon categories:
+
+- Pistols.
+- Shotguns.
+- Rifles.
+- Non-lethal equipment.
+- Melee equipment.
+- Special mission equipment.
+
+Features:
+
+- Weapon inventory.
+- Weapon selection wheel.
+- Ammunition counter.
+- Reload animations.
+- Weapon sounds.
+- First-person animations.
+- Third-person animations.
+- Visual equipment customization.
+- Weapon storage.
+- Mission-specific equipment.
+
+All weapon mechanics should be fictional game systems, not real-world weapon instructions.
+
+==================================================
+8. POLICE SYSTEM
+==================================================
+
+Create a dynamic police and wanted system.
+
+Features:
+
+- Police patrol vehicles.
+- Police NPCs.
+- Different wanted levels.
+- Police investigations.
+- Road patrols.
+- Police helicopters as world elements.
+- NPC reactions.
+- Police pursuit sequences.
+- Wanted level display.
+- Search and cooldown systems.
+
+Police behavior should change depending on the player's actions and wanted level.
+
+==================================================
+9. REALISTIC NPC SYSTEM
+==================================================
+
+Create hundreds of different NPC archetypes across the city.
+
+NPCs should:
+
+- Walk around independently.
+- Drive vehicles.
+- Visit shops.
+- Sit in restaurants.
+- Talk to other NPCs.
+- Go to work.
+- React to weather.
+- React to the player.
+- Have different clothing.
+- Have different faces.
+- Follow daily schedules.
+
+Create realistic pedestrian and traffic AI.
+
+The city must never feel completely empty.
+
+==================================================
+10. COMPLETE STORY CAMPAIGN
+==================================================
+
+Title: BLOOD & MONEY
+
+Main character: Alex Carter.
+
+Alex returns to San Veyro after seven years away.
+
+His older brother Daniel disappeared three months earlier.
+
+Alex wants to discover what happened.
+
+He reconnects with his childhood friend Marcus Reed.
+
+Marcus helps him get back into city life.
+
+Alex meets Sophia Miller, an investigator who is also looking into Daniel's disappearance.
+
+Their investigation leads them to Victor Hayes, a powerful businessman who controls important parts of San Veyro.
+
+The deeper Alex investigates, the more secrets he discovers.
+
+Include:
+- 25-35 main missions.
+- 30+ side missions.
+- Character development.
+- Unexpected plot twists.
+- Friendships.
+- Betrayals.
+- Cinematic storytelling.
+- Dialogue choices.
+- Meaningful decisions.
+- Multiple endings.
+
+==================================================
+11. IMPORTANT CHARACTERS
+==================================================
+
+ALEX CARTER:
+Main protagonist, 24 years old.
+
+MARCUS REED:
+Alex's childhood friend and mechanic.
+
+SOPHIA MILLER:
+Investigator who helps Alex investigate Daniel's disappearance.
+
+VICTOR HAYES:
+Powerful businessman and main antagonist.
+
+DANIEL CARTER:
+Alex's older brother, who disappeared mysteriously.
+
+Each character needs:
+- Realistic 3D model.
+- Unique voice.
+- Facial expressions.
+- Personalities.
+- Dialogue.
+- Story missions.
+- Character animations.
+
+==================================================
+12. MISSION SYSTEM
+==================================================
+
+Create a professional mission system.
+
+Mission examples:
+
+MISSION 01 – HOMECOMING
+Alex returns to San Veyro.
+
+MISSION 02 – OLD FRIENDS
+Alex meets Marcus again.
+
+MISSION 03 – THE MISSING BROTHER
+Alex starts investigating Daniel's disappearance.
+
+MISSION 04 – NEW BUSINESS
+Alex and Marcus establish a garage.
+
+MISSION 05 – CITY LIGHTS
+Explore the city and meet important characters.
+
+MISSION 06 – WRONG PLACE
+Alex gets caught in an unexpected police situation.
+
+MISSION 07 – THE INVESTIGATION
+Sophia discovers new information.
+
+MISSION 08 – THE BILLIONAIRE
+Alex meets Victor Hayes.
+
+MISSION 09 – BETRAYAL
+Alex discovers that someone close to him has been lying.
+
+MISSION 10 – THE TRUTH
+Alex finally discovers what happened to Daniel.
+
+Create additional missions with unique locations, objectives, characters and cutscenes.
+
+==================================================
+13. CINEMATIC CUTSCENES
+==================================================
+
+Create cinematic cutscenes similar to modern AAA games.
+
+Requirements:
+
+- Realistic camera angles.
+- Close-up facial shots.
+- Natural character movement.
+- Lip synchronization.
+- Voice acting.
+- Cinematic lighting.
+- Camera transitions.
+- Character interactions.
+- Environmental sound.
+
+Cutscenes must use the actual game characters and environments.
+
+==================================================
+14. SIDE ACTIVITIES
+==================================================
+
+The city should remain interesting outside the main story.
+
+Include:
+
+- Street racing.
+- Car dealerships.
+- Vehicle customization.
+- Taxi jobs.
+- Delivery jobs.
+- Property purchases.
+- Restaurants.
+- Shopping.
+- Car meets.
+- Collectibles.
+- Hidden locations.
+- Random city events.
+- Optional NPC missions.
+- Exploration challenges.
+
+==================================================
+15. WORLD SYSTEMS
+==================================================
+
+Implement:
+
+- Dynamic day and night.
+- Realistic weather.
+- Rain.
+- Thunderstorms.
+- Fog.
+- Dynamic clouds.
+- Realistic water.
+- Traffic lights.
+- Working street lights.
+- Pedestrian traffic.
+- Dynamic city events.
+- Interior lighting.
+- Environmental audio.
+
+==================================================
+16. UI AND MENUS
+==================================================
+
+Create a modern professional interface.
+
+Main menu:
+- New Game.
+- Continue.
+- Load Game.
+- Settings.
+- Credits.
+- Exit.
+
+In-game interface:
+- Minimap.
+- Mission objectives.
+- Phone.
+- Money.
+- Weapon inventory.
+- Health.
+- Vehicle information.
+- Interaction prompts.
+
+Create a realistic smartphone interface.
+
+The phone should allow:
+- Receiving calls from Marcus and Sophia.
+- Reading messages.
+- Viewing mission information.
+- Checking contacts.
+- Receiving mission notifications.
+
+Main story missions should primarily start through calls from Marcus or Sophia.
+
+==================================================
+17. SOUND DESIGN
+==================================================
+
+Create:
+
+- Realistic city ambience.
+- Vehicle engine sounds.
+- Pedestrian conversations.
+- Traffic sounds.
+- Footsteps.
+- Rain sounds.
+- Interior ambience.
+- Original soundtrack.
+- Mission music.
+- Cinematic audio.
+- Character voice acting.
+
+==================================================
+18. SAVING AND SETTINGS
+==================================================
+
+Implement:
+
+- Automatic saving.
+- Manual saving.
+- Multiple save slots.
+- Graphics settings.
+- Resolution settings.
+- Fullscreen mode.
+- Mouse sensitivity.
+- Camera settings.
+- Audio settings.
+- First-person and third-person preferences.
+- Key bindings.
+
+==================================================
+19. DEVELOPMENT AND TESTING
+==================================================
+
+Build this game in development phases.
+
+PHASE 1:
+Create the realistic city, main character, camera system and movement.
+
+PHASE 2:
+Create vehicles, traffic, NPCs and buildings.
+
+PHASE 3:
+Implement weapons, police and interaction systems.
+
+PHASE 4:
+Implement the main story, missions and cutscenes.
+
+PHASE 5:
+Implement side activities, shops and properties.
+
+PHASE 6:
+Optimize graphics, performance and world streaming.
+
+PHASE 7:
+Test all features and fix bugs.
+
+==================================================
+20. FINAL REQUIREMENTS
+==================================================
+
+I want an actual playable 3D game, not just a concept or menu.
+
+Do not fake features.
+
+Do not create empty streets.
+
+Do not use pixel graphics.
+
+Do not use primitive character models.
+
+Do not use placeholder cars.
+
+Do not create a tiny 3x3 world.
+
+Do not claim that a feature works if it has not been implemented.
+
+Prioritize realistic graphics, detailed human characters, a living city and actual gameplay.
+
+If a feature is too large to implement immediately, build it properly in stages instead of replacing it with a fake version.
+
+The final result should feel like a real modern open-world game with a complete story, realistic characters, vehicles, NPCs, missions, weapons, police, first-person mode and third-person mode.
+
+Make it playable and test every major feature.
